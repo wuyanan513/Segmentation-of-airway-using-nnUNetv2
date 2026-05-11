@@ -165,7 +165,6 @@ Please cite the following works if you use this code or the pre‑trained models
 
 4. Lo, P., et al. (2012). Extraction of Airways From CT (EXACT'09). *IEEE Transactions on Medical Imaging*, 31(11), 2093–2107.
 
-5. Add other dataset citations as appropriate.
 
 ## 📧 Contact
 
